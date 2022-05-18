@@ -1,0 +1,14 @@
+{
+  "name": "modern_full_stuck",
+  "version": "1.0.0",
+  "description": "this is my first npm project may god be with me ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "medGasmi",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "chalk": "^5.0.1"
+  }
+}
